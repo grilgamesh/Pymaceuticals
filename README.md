@@ -1,4 +1,3 @@
-# Matplotlib-challenge
-homework 5
-Currently completed five of nine sections.
-update 07/04/2022: now completed all sections.
+# Pymacuticals
+
+This project demonstrates my fluency with Matplotlib functions and Pandas dataframe manipulation. Please see the Jupyter Notebook file fir detailed, annotated code.
