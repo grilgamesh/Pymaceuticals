@@ -10,6 +10,9 @@ The brief was to graphically investigate the effects of potential cancer treatme
 * Numpy
 * Matplotlib
 
+  
+  ![image](https://user-images.githubusercontent.com/98031776/189631340-e6dd75f2-67ab-4bf3-ac9d-88767d431a8c.png)
+
 
 ## Observations and Insights
 
